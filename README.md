@@ -1,6 +1,7 @@
 ## Hi There 👋
 😄 Juan Lira Estevão | 26/08/2003<br>
-💻 Computer Science / Ciência da Computação | Centro Universitário FEI 
+💻 Ciência da Computação | Centro Universitário FEI 
+📌 São Bernardo do Campo, São Paulo | Brasil
 ## Stats 💻
 <div>
 <a href="https://github.com/JuanLiraEst">
