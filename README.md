@@ -1,6 +1,6 @@
 ## Hi There 👋
 😄 Juan Lira Estevão | 26/08/2003<br>
-💻 Ciência da Computação | Centro Universitário FEI 
+💻 Ciência da Computação | Centro Universitário FEI <br>
 📌 São Bernardo do Campo, São Paulo | Brasil
 ## Stats 💻
 <div>
@@ -9,7 +9,9 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JuanLiraEst&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
 
-
+## Knowledge 🧠
+  
+## Learning 📖
 
 <!--
 **JuanLiraEst/JuanLiraEst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
