@@ -1,5 +1,5 @@
 ### Hi there 👋
-<div height="300px" width="40%">![JuanLiraEst GitHub stats](https://github-readme-stats.vercel.app/api?username=JuanLiraEst&theme=dark&show_icons=true)</div>
+![JuanLiraEst GitHub stats](https://github-readme-stats.vercel.app/api?username=JuanLiraEst&theme=dark&show_icons=true)
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanLiraEst&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
