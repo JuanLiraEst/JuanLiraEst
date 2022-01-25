@@ -1,4 +1,6 @@
-### Hi there 👋
+## Hi there 👋
+Juan Lira Estevão | 26/08/2003
+## Hi there 👋
 <div>
 <a href="https://github.com/JuanLiraEst">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanLiraEst&layout=compact&langs_count=7&theme=dark"/>
