@@ -1,5 +1,7 @@
 ### Hi there 👋
-![JuanLiraEst Status](https://github-readme-stats.vercel.app/api?username=JuanLiraEst&show_icons=true)
+<!--![JuanLiraEst Status](https://github-readme-stats.vercel.app/api?username=JuanLiraEst&show_icons=true)-->
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanLiraEst&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **JuanLiraEst/JuanLiraEst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
