@@ -1,7 +1,7 @@
 ### Hi there 👋
 <div>
 <a href="https://github.com/JuanLiraEst">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JuanLiraEst&theme=dark&show_icons=true">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanLiraEst&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JuanLiraEst&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
