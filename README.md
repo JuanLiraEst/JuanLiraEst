@@ -1,5 +1,5 @@
 ### Hi there 👋
-![JuanLiraEst Status](https://github-readme-stats.vercel.app/api?username=karanalpe&show_icons=true)
+![JuanLiraEst Status](https://github-readme-stats.vercel.app/api?username=JuanLiraEst&show_icons=true)
 
 <!--
 **JuanLiraEst/JuanLiraEst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
