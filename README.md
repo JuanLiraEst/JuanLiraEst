@@ -1,5 +1,5 @@
 ## Hi There 👋
-😄 Juan Lira Estevão | 26/08/2003
+😄 Juan Lira Estevão | 26/08/2003<br>
 💻 Computer Science / Ciência da Computação | Centro Universitário FEI 
 ## Stats 💻
 <div>
