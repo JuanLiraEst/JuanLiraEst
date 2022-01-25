@@ -2,7 +2,9 @@
 <div>
 <a href="https://github.com/JuanLiraEst">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JuanLiraEst&theme=dark&show_icons=true">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanLiraEst&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JuanLiraEst&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
 
 
 <!--
