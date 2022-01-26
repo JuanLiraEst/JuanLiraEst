@@ -7,7 +7,7 @@
 <a href="https://github.com/JuanLiraEst">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanLiraEst&layout=compact&langs_count=7&theme=dark"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JuanLiraEst&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-<img src="https://activity-graph.herokuapp.com/graph?username=JuanLiraEst&theme=minimal">
+<img width="600em" style="text-align:center" src="https://activity-graph.herokuapp.com/graph?username=JuanLiraEst&theme=minimal">
 </div>
 
 ## Knowledge 🧠
