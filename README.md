@@ -1,7 +1,7 @@
 ## Hi There ✌🏾
-<p font-size="40pt">😄 Juan Lira Estevão | 26/08/2003</p><br>
-<p font-size="40pt">💻 Ciência da Computação | Centro Universitário FEI </p><br>
-<p font-size="40pt">📌 São Bernardo do Campo, São Paulo | Brasil </p>
+<p font-size="25pt">😄 Juan Lira Estevão | 26/08/2003</p><br>
+<p font-size="25pt">💻 Ciência da Computação | Centro Universitário FEI </p><br>
+<p font-size="25pt">📌 São Bernardo do Campo, São Paulo | Brasil </p>
 ## Stats | Estatísticas 💻
 <div>
 <a href="https://github.com/JuanLiraEst">
