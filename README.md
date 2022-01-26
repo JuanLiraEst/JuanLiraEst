@@ -1,7 +1,7 @@
 ## Hi There ✌🏾
-😄 Juan Lira Estevão | 26/08/2003<br>
-💻 Ciência da Computação | Centro Universitário FEI <br>
-📌 São Bernardo do Campo, São Paulo | Brasil
+<p font-size="25pt">😄 Juan Lira Estevão | 26/08/2003</p><br>
+<p font-size="25pt">💻 Ciência da Computação | Centro Universitário FEI </p><br>
+<p font-size="25pt">📌 São Bernardo do Campo, São Paulo | Brasil </p>
 ## Stats | Estatísticas 💻
 <div>
 <a href="https://github.com/JuanLiraEst">
@@ -27,10 +27,7 @@
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-  
-<br><br>
-## Visitors | Visitantes 👀
-![Visitor Count](https://profile-counter.glitch.me/JuanLiraEst/count.svg)
+
 <!--
 **JuanLiraEst/JuanLiraEst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
