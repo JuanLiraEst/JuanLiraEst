@@ -16,9 +16,6 @@
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=dark">
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
-  
-  
-<br><br>IDEs<br>
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"> 
 <img src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white">
 <img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white">
@@ -30,6 +27,9 @@
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  
+<br><br>
+![Visitor Count](https://profile-counter.glitch.me/JuanLiraEst/count.svg)
 <!--
 **JuanLiraEst/JuanLiraEst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
