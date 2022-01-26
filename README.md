@@ -29,6 +29,7 @@
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
   
 <br><br>
+## Visitors | Visitantes 👀
 ![Visitor Count](https://profile-counter.glitch.me/JuanLiraEst/count.svg)
 <!--
 **JuanLiraEst/JuanLiraEst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
