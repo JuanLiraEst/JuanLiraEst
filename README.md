@@ -2,7 +2,7 @@
 <p font-size="25pt">😄 Juan Lira Estevão | 26/08/2003</p><br>
 <p font-size="25pt">💻 Ciência da Computação | Centro Universitário FEI </p><br>
 <p font-size="25pt">📌 São Bernardo do Campo, São Paulo | Brasil </p>
-## Stats | Estatísticas 💻
+<h1> Stats | Estatísticas 💻</h1>
 <div>
 <a href="https://github.com/JuanLiraEst">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanLiraEst&layout=compact&langs_count=7&theme=dark"/>
@@ -27,6 +27,7 @@
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
 
 <!--
 **JuanLiraEst/JuanLiraEst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
