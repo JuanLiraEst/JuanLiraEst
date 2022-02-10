@@ -31,7 +31,6 @@
 
 
 ## Get in touch | Contato
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"><p> juan.lira10.estevao@gmail.com</p><br>
   <a href="https://www.linkedin.com/in/juan-lira-1997b2222/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <!--
 **JuanLiraEst/JuanLiraEst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
